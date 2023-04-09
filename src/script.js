@@ -1,4 +1,4 @@
-const c = document.getElementById('bg');
+const c = document.querySelect('button');
 const colors = {'st': 'white', 'nd': 'grey'};
 
 c.addEventListener("click", () => {
